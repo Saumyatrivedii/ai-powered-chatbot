@@ -1,7 +1,3 @@
-Here’s your **final polished README.md** — clean, professional, and clearly *your work* (not a copied template). Just copy-paste this into your repo.
-
----
-
 ```md
 # AI-Powered Chatbot using FastAPI and LangChain
 
