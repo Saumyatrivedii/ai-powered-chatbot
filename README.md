@@ -132,6 +132,3 @@ The app will open in your browser.
 
 This project is for learning purposes and demonstrates basic integration of LLMs with web frameworks.
 
-```
-
----
